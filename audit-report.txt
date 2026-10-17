@@ -1,0 +1,23 @@
+WEBSITE AUDIT REPORT
+
+Project: Student Information Website
+
+Problem 1: Missing DOCTYPE declaration.
+Fix: Added <!DOCTYPE html> to all three HTML files.
+
+Problem 2: Missing language attribute.
+Fix: Added lang="en" to the html tag.
+
+Problem 3: Missing character encoding.
+Fix: Added <meta charset="UTF-8"> to all pages.
+
+Problem 4: Table accessibility.
+Fix: Added scope="col" and scope="row" to timetable table headings.
+
+Testing:
+- Checked all navigation links.
+- Checked page titles and heading structure.
+- Checked timetable table display.
+
+Conclusion:
+Improved the HTML structure and accessibility of the website.
